@@ -446,7 +446,7 @@ hr {
 /*****************************/
 
 .intro {
-	background: #0c040f;
+	background: #4AB2E8;
 }
 
 .about p{
@@ -780,7 +780,7 @@ div.avatar {
 /*********************/
 
 .btn-effect {
-	background: none repeat scroll 0 0 #0c59d8;
+	background: none repeat scroll 0 0 #D85C2F;
 	border: medium none;
 	color: #fff;
 	letter-spacing: 0.2em;
@@ -1440,11 +1440,11 @@ a {
 }
 
 #portfolio {
-	background-color: #0c040f;
+	background-color: #92CDEC;
 }
 
 .planContainer {
-	background-color: #141115;
+	background-color: #337BA0;
 	margin-top: 10px;
 }
 
@@ -1653,7 +1653,7 @@ ul.slides li {
 /** Sponsor **/
 /*****************************/
 .ignite-cta {
-	background-color: #0c040f;
+	background-color: #43A2D3;
 }
 
 .ignite-btn {
@@ -1996,7 +1996,7 @@ ul.planContainer {
 }
 
 .contact-wrap {
-	background-color: #0c040f;
+	background-color: #43A2D3;
 	position: relative;
 }
 

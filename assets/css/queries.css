@@ -180,7 +180,7 @@ body {
 float: none;
 }
 .header.header-hide {
-	background: none repeat scroll 0 0 #0f1726;
+	background: none repeat scroll 0 0 #337BA0;
 }
 .navbar-header {
 	float: none;
@@ -249,7 +249,7 @@ display:none;
 }
 
 .header.header-hide {
-    background: none repeat scroll 0 0 #0c040f;
+    background: none repeat scroll 0 0 #337BA0;
 }
 
 /* Schedule social links*/
