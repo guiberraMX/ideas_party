@@ -1,6 +1,6 @@
 /** *************Init JS*********************
 	
-    TABLE OF CONTENTS
+     TABLE OF CONTENTS
 	---------------------------
 	1. Preloader
 	2. Ready Function
@@ -15,7 +15,8 @@
 	   i) Subscribe
 	   j) Nice Scroll
 	   h) Placeholder for ie9
-	3.only play video on desktop devices
+	3.Youtube background
+	4.Only play video on desktop devices
 
 
 /*************************************/
@@ -30,9 +31,9 @@ jQuery(window).load(function() {
 	jQuery(".status").fadeOut();
         // will fade out the whole DIV that covers the website.
 	jQuery(".preloader").delay(100).fadeOut("slow");
-	jQuery("body").css('overflow-y','visible');
 
 });
+
 
 /*************************************/
 /* Ready Function */
@@ -293,8 +294,15 @@ jQuery( document ).ready(function( $ ) {
 		
 		
 });
+/***********************************/
+/*Youtube background*/
+/**********************************/
+
+	var options = { videoId: 'Cg4lEyWlm28',repeat: true }; /* you tube video id goes here.*/
+	$('#background-video').tubular(options);
+	
 /***************************************/
-/*only play video on desktop devices  */
+/*Only play video on desktop devices  */
 /**************************************/
 	var isMobile = {
 	Android: function() {
@@ -319,8 +327,10 @@ jQuery( document ).ready(function( $ ) {
 
 var trueMobile = isMobile.any()
 if (trueMobile){
-	    $('#video').css('display','none');	
-		
+	    $('#background-video').css('display','none');
+		$('#background').css('display','none');
+		$('#tubular-container').css('display','none');
+		$('#tubular-shield').css('display','none');	
 }
 
 
