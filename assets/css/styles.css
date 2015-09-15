@@ -1321,7 +1321,7 @@ a {
 	left: 0;
 	z-index: 1000;
 	opacity: 0;
-	background: rgba(255,29,141,0.7);
+	background: rgba(165,165,96,0.9);
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
 	transition: all 0.3s;
