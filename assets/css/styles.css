@@ -30,6 +30,18 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, pre, a
 }
 
 
+.titulon{
+	font-size: 2.4em !important;
+	color:#A5CC60 !important;
+}
+
+.titulin{
+
+	color:#73A131 !important;
+	font-family: ;
+}
+
+
 strong{
 	font-weight:bold;
 }
@@ -39,7 +51,8 @@ html{
 } 
 body {
 	color: #7a7a7a;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400;
 	font-size: 14px;
 	font-style: normal;
 	line-height:1.5;
@@ -106,7 +119,7 @@ h6 {
 
 p {
 	color: #fff;
-    font-size: 1.1em;
+    font-size: 1.6em;
     line-height: 1.6em;
 }
 
@@ -446,7 +459,7 @@ hr {
 /*****************************/
 
 .intro {
-	background: #4AB2E8;
+	background: #337BA0;
 }
 
 .about p{
@@ -455,7 +468,7 @@ hr {
 
 h1.arrow {
 	font-family: 'Permanent Marker', cursive;
-	color: #fff;
+	color: #87BEDA;
     font-size: 2.5em;
     font-weight: 700;
     letter-spacing: 0.3em;
@@ -495,7 +508,7 @@ h1.arrow {
 }
 
 .features {
-	background: #00A5B9;
+	background: #fff;
 }
 
 .grid figure img {
@@ -545,7 +558,7 @@ figure.vimeo-video{
 }
 
 .block-hover:hover {
-	background:none repeat scroll 0 0 rgb(12, 89, 216);
+	background:none repeat scroll 0 0 rgb(255, 255, 255);
 	-webkit-transition: all .6s ;
 	-moz-transition: all .6s ;
 	-o-transition: all .6s ;
@@ -570,13 +583,14 @@ figure.vimeo-video{
 }
 
 .block-hover span {
-	color: #fff;
-    font-size: 1.5em;
+	color: #E12637;
+    font-size: 1.8em;
     left: 0;
     letter-spacing: 0.1em;
 	opacity: 0;
 	position: absolute;
 	top: 35%;
+	font-family: 'Permanent Marker', cursive;
 }
 
 .block-hover:hover img {
@@ -869,7 +883,7 @@ div.avatar {
 
 
 #responsive {
-	background-color: #4AB2E8;
+	background-color: #fff;
 }
 
 /********************************/
@@ -899,12 +913,13 @@ div.avatar {
 }
 
 .day {
-    color: #fff;
-    font-size: 1.1em;
+    color: #43A2D3;
+    font-size: 1.4em;
     font-weight: 600;
     letter-spacing: 0.2em;
     padding-bottom: 35px;
     text-transform: uppercase;
+    font-family: 'Permanent Marker', cursive;
 }
 
 .accordion {
@@ -922,11 +937,11 @@ div.avatar {
 	background: url("../img/arrow.png") no-repeat scroll right 0 top -80px rgba(0, 0, 0, 0);
 	border-top: 1px solid #fff;
     box-sizing: border-box;
-    color: #fff;
+    color: #113539;
     cursor: pointer;
     display: inline-block;
     float: left;
-    font-size: 0.9em;
+    font-size: 1.2em;
     font-weight: 300;
     letter-spacing: 0.1em;
     padding: 15px 15px 15px 0px;
@@ -957,9 +972,16 @@ div.avatar {
 }
 
 .accordion .item.open .time {
-	color: #fff;
+	color: #3F83EA;
 }
 
+.acordon{
+	color: #113539 !important;
+}
+
+.acordon33{
+	color: #4AB2E8 !important;
+}
 .accordion .item.open .heading .e-title {
 	background-position: right 0px top 10px;
 }
