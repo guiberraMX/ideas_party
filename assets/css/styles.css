@@ -635,8 +635,9 @@ ul.social-buttons li:last-child {
 }
 
 .social-btn {
-	width: 46px;
-	height: 46px;
+	width: 96px;
+	height: 96px;
+	
 	border-radius: 50%;
 	-moz-border-radius: 50%;
 	-webkit-border-radius: 50%;
@@ -648,7 +649,7 @@ ul.social-buttons li:last-child {
 }
 
 .social-btn i{
-	font-size:1.2em;
+	font-size:3.9em;
 	line-height:inherit;
 }
 
@@ -1052,7 +1053,7 @@ div.avatar {
 /** Registration Form **/
 /****************************/
 .swag {
-	background: url('../img/backgrounds/bg-input.jpg') no-repeat center center;
+	background: url('../img/backgrounds/bg-input.png') no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
