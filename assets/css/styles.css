@@ -393,7 +393,7 @@ hr {
 
 .navbar-default .navbar-nav > li > a {
 	color: #fff;
-	font-family: 'Permanent Marker', cursive;
+	font-family: 'Ubuntu', cursive;
 	font-size: 1em;
 	font-weight: 500;
 	letter-spacing: 0.2em;
@@ -426,7 +426,9 @@ hr {
 
 .navbar-default .navbar-nav > li > a:hover, 
 .navbar-default .navbar-nav > li > a:focus {
-	color: rgba(27, 89, 216, 1);
+	color: #92cdec;
+	font-weight: 700;
+
 }
 
 .navbar-default .navbar-nav > .active > a, 
@@ -1571,7 +1573,7 @@ ul.planContainer li.title {
 	display: block;
 	position: absolute;
 	z-index: 20;
-	background: rgba(12, 89, 216, 1);
+	background: rgba(12, 89, 216, 0);
 	overflow: hidden;
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
