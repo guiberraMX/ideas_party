@@ -1902,15 +1902,16 @@ ul.planContainer {
     }
 	
 .subscribe button i{
-	font-size:1.5em;
-	font-size: 1.5em;
+	font-size:2.3em;
+	font-size: 2.3em;
     position: absolute;
     top: 0;
 	left: 14px;
 	 -moz-transition: 0.5s;
     -o-transition: 0.5s;
     -webkit-transition: 0.5s;
-    transition: 0.5s
+    transition: 0.5s;
+    color: #ff8938 !important;
     
 	
 }
