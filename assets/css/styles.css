@@ -190,7 +190,7 @@ p {
 }
 
 .event-download-social-link{
-	background:#92CDEC;
+	background:#337BA0;
 }
 
 .nopadding {
@@ -469,9 +469,9 @@ hr {
 }
 
 h1.arrow {
-	font-family: 'Permanent Marker', cursive;
+	font-family: 'Ubuntu', cursive;
 	color: #87BEDA;
-    font-size: 2.5em;
+    font-size: 2.9em;
     font-weight: 700;
     letter-spacing: 0.3em;
     text-transform: uppercase;
@@ -614,7 +614,7 @@ figure.vimeo-video{
     top: 10px;
 }
 .team {
-	background-color: #43A2D3;
+	background: url('../img/backgrounds/bg-input.png') no-repeat center center;
 }
 
 .speakers-wrap {
@@ -689,7 +689,7 @@ blockquote p{
 }
 
 .team h1 {
-	color: #ffffff;
+	color: #43A2D3;
 }
 .team .md-content{
 	padding:0;
@@ -816,7 +816,7 @@ div.avatar {
 	background: none repeat scroll 0 0 #fff;
 }
 .btn-effect:after {
-	background: none repeat scroll 0 0 #000;
+	background: none repeat scroll 0 0 #;
 	height: 0;
 	left: 0;
 	top: 0;
@@ -1055,12 +1055,7 @@ div.avatar {
 /** Registration Form **/
 /****************************/
 .swag {
-	background: url('../img/backgrounds/bg-input.png') no-repeat center center;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	background-attachment: fixed;
+	background-color: #A5CC60;
 }
 
 .swag h1 {
