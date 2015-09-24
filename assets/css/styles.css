@@ -225,9 +225,31 @@ hr {
 	overflow: hidden;
 }
 
+
+
+
+.brained {
+	
+	background: url('../img/backgrounds/bg1.png') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: -2;
+}
+
+
+
+
+
 .home-bg {
-	animation: 60s ease 0s normal none infinite back_animation;
-	background: url('../img/backgrounds/bg1.jpg') no-repeat center center;
+	
+	background: url('../img/backgrounds/bg1.png') no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -676,7 +698,7 @@ blockquote p{
 }
 
 .team p {
-	color: #f9f9f9;
+	color: #4B596F;
 }
 
 .team h2 {
