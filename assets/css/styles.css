@@ -331,9 +331,9 @@ hr {
 
 .landing-text-pos h1{
 
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Ubuntu', cursive;
 	font-size: 3.5em;
-    font-weight: 700;
+    font-weight: 300;
     letter-spacing: 0.2em;
     text-transform: uppercase;
 	padding: 0 10%;
@@ -1363,7 +1363,7 @@ a {
 	left: 0;
 	z-index: 1000;
 	opacity: 0;
-	background: rgba(165,165,96,0.9);
+	background: rgba(67,162,211,1);
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
 	transition: all 0.3s;
