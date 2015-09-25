@@ -497,6 +497,8 @@ h1.arrow {
     font-weight: 700;
     letter-spacing: 0.3em;
     text-transform: uppercase;
+    text-shadow: 1px 1px 2px #4B596F;
+
 }
 
 .features-wrapper {
@@ -1058,10 +1060,10 @@ div.avatar {
 }
 
 .d-sch:hover{
-	color: #0c59d8;
+	color: #92CDEC;
 }
 .fb:hover{
-	color: #0c59d8;
+	color: #92CDEC;
 }
 
 .accordion .item.open .e-title {
