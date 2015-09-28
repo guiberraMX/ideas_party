@@ -763,8 +763,8 @@ div.avatar {
 	margin: 0 auto;
 }
 
-.avatar {
-	background-image: url('../img/team/team-01.png');
+.avatar1 {
+	background-image: url('../img/team/b1.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-color: #ffffff;
@@ -774,6 +774,84 @@ div.avatar {
 	-webkit-border-radius: 50%;
 	border-radius: 50%;
 }
+
+
+
+.avatar2 {
+	background-image: url('../img/team/b2.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+
+
+
+.avatar3 {
+	background-image: url('../img/team/b3.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+
+.avatar4 {
+	background-image: url('../img/team/b4.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+
+.avatar5 {
+	background-image: url('../img/team/bx.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+.avatar6 {
+	background-image: url('../img/team/bx.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 .folio {
 	max-width: 500px;
