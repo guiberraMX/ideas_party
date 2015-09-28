@@ -584,7 +584,7 @@ figure.vimeo-video{
 }
 
 .block-hover:hover {
-	background:none repeat scroll 0 0 rgb(255, 255, 255);
+	background:none repeat scroll 0 0 rgb(51, 123, 160);
 	-webkit-transition: all .6s ;
 	-moz-transition: all .6s ;
 	-o-transition: all .6s ;
@@ -609,14 +609,14 @@ figure.vimeo-video{
 }
 
 .block-hover span {
-	color: #E12637;
+	color: #87beda;
     font-size: 1.8em;
     left: 0;
     letter-spacing: 0.1em;
 	opacity: 0;
 	position: absolute;
 	top: 35%;
-	font-family: 'Permanent Marker', cursive;
+	font-family: 'Ubuntu', cursive;
 }
 
 .block-hover:hover img {
@@ -759,14 +759,37 @@ blockquote p{
 	border-left-color: #0c59d8;
 }
 
-div.avatar {
+div.avatar1  {
 	margin: 0 auto;
 }
+
+
+div.avatar2  {
+	margin: 0 auto;
+}
+
+div.avatar3  {
+	margin: 0 auto;
+}
+
+div.avatar4  {
+	margin: 0 auto;
+}
+
+div.avatar5  {
+	margin: 0 auto;
+}
+
+div.avatar6  {
+	margin: 0 auto;
+}
+
+
 
 .avatar1 {
 	background-image: url('../img/team/b1.png');
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: center center !important;
 	background-color: #ffffff;
 	width: 100px;
 	height: 100px;
@@ -873,7 +896,7 @@ div.avatar {
 	text-transform: uppercase;
 	letter-spacing: 0.2em;
 	font-size: 0.8em;
-	color: #0c59d8;
+	color: #fff;
 }
 
 .sp-dsc {
@@ -1461,8 +1484,8 @@ a {
 }
 
 .md-content {
-	color: #212639;
-	background: #ffffff;
+	color: #87beda;
+	background: #337ba0;
 	position: relative;
 	margin: 0 auto;
 	padding:35px;
