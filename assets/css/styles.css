@@ -2071,7 +2071,7 @@ ul.planContainer {
 }
 
 #result .success{
-    color: #1bce7c;
+    color: #D85C2F;
     font-size: 0.43em;
 	text-transform:capitalize;
 	position: absolute; 
@@ -2083,7 +2083,7 @@ ul.planContainer {
 }
 
 .success{
-	color: #1bce7c;
+	color: #D85C2F;
 	text-align: center;
 	left: 0px;
 	margin-top: 15px;
