@@ -79,7 +79,8 @@
 /*this is where jQuery appends the instagram json response*/
 #instagram {
     
-    padding: 0px;
+    padding: 20px;
+
   
 }
 
@@ -89,8 +90,11 @@
     position: relative;
     background: white;
     padding: 5px;
-    margin: 5px;
+   
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+
+     margin: 10px 10px 10px 10px;
+
 }
 
 .instagram-wrap .likes {
@@ -101,7 +105,7 @@
     padding: 0 5px 0 22px;
     line-height: 16px;
     border: 1px solid #ddd;
-    background: white url('fav.pngx') no-repeat 2px 0;
+    background: white url('../img/fav.png') no-repeat 2px 0;
     opacity: 0.6;
 }
 
@@ -205,7 +209,7 @@ function loadEmUp(next_url){
                 next_url = data.pagination.next_url;
                 //count = data.data.length;
                 //three rows of four
-                count = 3; 
+                count = 15; 
         
                 //uncommment to see da codez
                 //console.log("count: " + count );
@@ -877,7 +881,7 @@ PLAY
 				<div class="row">
 					<div class="col-md-8 align-center wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
 						<h1 class="arrow">Nuestros Patrocinadores</h1><hr>
-						<p>Gracias por su confianza, sin ellos Ideas Party no sería posible.</p>
+						
 					</div>
 					<!-- Jssor Slider Begin -->
 					<div id="slider1_container" style=" ">
@@ -939,11 +943,7 @@ PLAY
 				<div id="grid-gallery" class="grid-gallery">
 					<section class="grid-wrap">
 						<div class="grid-gal">						
-							<figure class="block-hover 3d-gallery col-lg-12 col-sm-12">
-								<a href="#"><img src="assets/img/gallery/gal-icn.png" alt="img1">
-									<span>Ideas Party 2014</span>
-								</a>                            
-							</figure>
+							
 
 							 <div class="col-lg-12 col-sm-12">
 
@@ -973,7 +973,7 @@ PLAY
 
 
 
-    <div id="instagram"></div>
+    <div id="instagram" max-width="10%"></div>
     <div class='clearfix'></div>
     
     
