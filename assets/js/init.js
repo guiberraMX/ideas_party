@@ -298,7 +298,7 @@ jQuery( document ).ready(function( $ ) {
 /*Youtube background*/
 /**********************************/
 
-	var options = { videoId: 'Cg4lEyWlm28',repeat: true }; /* you tube video id goes here.*/
+	var options = { videoId: 'kA4w4CehIOg',repeat: true }; /* you tube video id goes here.*/
 	$('#background-video').tubular(options);
 	
 /***************************************/

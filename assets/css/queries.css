@@ -163,6 +163,9 @@ body {
 }
 }
 
+
+
+
 @media screen and (max-width: 992px) {
 
 
@@ -213,7 +216,7 @@ float: none;
 	padding:12px;
 }
 .navbar-brand img{
-	width:70%;
+	width:30%;
 }
 .navbar-default .navbar-toggle{
 	border:none;

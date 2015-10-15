@@ -3,7 +3,7 @@
 
 if($_POST)
 {
-	$to_Email   	= "contacto@thinkersinmotion.mx"; //Replace with recipient email address
+	$to_Email   	= "ideaspartymx@gmail.com"; //Replace with recipient email address
 	$subject        = 'Contacto de la página web'; //Subject line for emails
 	
 	//check if its an ajax request, exit if not

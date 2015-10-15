@@ -784,6 +784,10 @@ div.avatar6  {
 	margin: 0 auto;
 }
 
+div.avatar7  {
+	margin: 0 auto;
+}
+
 
 
 .avatar1 {
@@ -842,7 +846,7 @@ div.avatar6  {
 
 
 .avatar5 {
-	background-image: url('../img/team/bx.png');
+	background-image: url('../img/team/b5.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-color: #ffffff;
@@ -854,7 +858,22 @@ div.avatar6  {
 }
 
 .avatar6 {
-	background-image: url('../img/team/bx.png');
+	background-image: url('../img/team/b6.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+
+
+
+.avatar7 {
+	background-image: url('../img/team/b99.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-color: #ffffff;
