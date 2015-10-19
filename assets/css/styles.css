@@ -944,6 +944,7 @@ div.avatar7  {
 	background: none repeat scroll 0 0 #D85C2F;
 	border: medium none;
 	color: #fff;
+
 	letter-spacing: 0.2em;
 	-webkit-transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
@@ -955,6 +956,22 @@ div.avatar7  {
 	position:relative;
 
 }
+
+
+.comprame{
+
+	font-size: 1.4em !important;
+
+}
+
+
+.btn-effect:hover {
+	background-color: #EF8840 !important;
+	color: #fff !important;
+}
+
+
+
 
 .pricing-wrap .btn-effect{
 	background: none repeat scroll 0 0 #fff;
